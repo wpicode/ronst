@@ -1,0 +1,36 @@
+{
+  "name": "ronst",
+  "version": "1.0.0",
+  "description": "React constants that can be used in the build process and import environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpicode/ronst.git"
+  },
+  "keywords": [
+    "react",
+    "constants",
+    "ronst",
+    "env",
+    "variables",
+    "environment",
+    "variables",
+    "import",
+    "include",
+    "react",
+    "build",
+    "react",
+    "build",
+    "env",
+    "variables"
+  ],
+  "author": "wpicode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpicode/ronst/issues"
+  },
+  "homepage": "https://github.com/wpicode/ronst#readme"
+}
